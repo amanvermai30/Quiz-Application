@@ -13,11 +13,11 @@ The quiz application is a web application that allows users to create and partic
 
 To create a quiz, users can send a POST request to the API with the following fields:
 
--question: the text of the question
--options: an array of the answer options for the question
--rightAnswer: the index of the correct answer in the options array
--startDate: the date and time when the quiz should start
--endDate: the date and time when the quiz should end
+- question: the text of the question
+- options: an array of the answer options for the question
+- rightAnswer: the index of the correct answer in the options array
+- startDate: the date and time when the quiz should start
+- endDate: the date and time when the quiz should end
 
 # Video Explanation For APIs
 link - https://drive.google.com/file/d/1tnILhsQWdewmJZdTiZbwqJDU9BVf7YEq/view?usp=sharing
