@@ -1,7 +1,3 @@
-
-# Video Explanation For APIs
-link - https://drive.google.com/file/d/1tnILhsQWdewmJZdTiZbwqJDU9BVf7YEq/view?usp=sharing
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=teal&amp;size=20&amp;lines=Welcome+To+Heliverse+Project;" style="width: 100%;">
 
 
@@ -22,3 +18,6 @@ To create a quiz, users can send a POST request to the API with the following fi
 -rightAnswer: the index of the correct answer in the options array
 -startDate: the date and time when the quiz should start
 -endDate: the date and time when the quiz should end
+
+# Video Explanation For APIs
+link - https://drive.google.com/file/d/1tnILhsQWdewmJZdTiZbwqJDU9BVf7YEq/view?usp=sharing
