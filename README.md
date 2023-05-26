@@ -8,7 +8,7 @@ The quiz application is a web application that allows users to create and partic
 
 # Problem Statement:
 
-**Backend Assignment **  You have to  build an application that allows users to create and participate in timed quizzes. The application should have a RESTful API that provides functionalities for creating and retrieving quizzes.
+**Backend Assignment**  You have to  build an application that allows users to create and participate in timed quizzes. The application should have a RESTful API that provides functionalities for creating and retrieving quizzes.
 
 
 To create a quiz, users can send a POST request to the API with the following fields:
@@ -18,6 +18,16 @@ To create a quiz, users can send a POST request to the API with the following fi
 - rightAnswer: the index of the correct answer in the options array
 - startDate: the date and time when the quiz should start
 - endDate: the date and time when the quiz should end
+
+*Backend Assignment*
+- mysql 
+- java 
+- lombok 
+- developer-tools 
+- springboot 
+- spring-mvc jpa-hibernate
+- postman
+
 
 # Video Explanation For APIs
 link - https://drive.google.com/file/d/1tnILhsQWdewmJZdTiZbwqJDU9BVf7YEq/view?usp=sharing
