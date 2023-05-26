@@ -19,7 +19,7 @@ To create a quiz, users can send a POST request to the API with the following fi
 - startDate: the date and time when the quiz should start
 - endDate: the date and time when the quiz should end
 
-*Backend Assignment*
+*Tech Stack*
 - mysql 
 - java 
 - lombok 
