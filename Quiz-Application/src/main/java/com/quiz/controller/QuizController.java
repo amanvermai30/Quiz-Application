@@ -52,6 +52,7 @@ public class QuizController {
 		return new ResponseEntity<QuizResult>(quizResult, HttpStatus.OK);
 	}
 
+	// to get active quizzes
 	@GetMapping("/quizzes/active")
 	public ResponseEntity<Quiz> getActiveQuiz() throws QuizNotFoundException {
 		Quiz activeQuiz = quizService.getActiveQuiz();
