@@ -34,4 +34,3 @@ To create a quiz, users can send a POST request to the API with the following fi
 **Video Explanation For APIs**
  - https://drive.google.com/file/d/1tnILhsQWdewmJZdTiZbwqJDU9BVf7YEq/view?usp=sharing
 
-
